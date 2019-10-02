@@ -7,7 +7,7 @@
 - git: {local-name: pmb2_navigation,        uri: 'https://github.com/pal-robotics/pmb2_navigation.git', version: 'kinetic-devel'}
 - git: {local-name: pal_navigation_cfg_public,    uri: 'https://github.com/pal-robotics/pal_navigation_cfg_public.git', version: 'master'}
 - git: {local-name: pal_navigation_sm,        uri: 'https://github.com/pal-robotics/pal_navigation_sm.git', version: 'master'}
-- git: {local-name: ros_control,          uri: 'https://github.com/pal-robotics-forks/ros_control.git', version: '0.2.7'}
+- git: {local-name: ros_control,          uri: 'https://github.com/pal-robotics-forks/ros_control.git', version: 'kinetic-devel'}
 - git: {local-name: simple_models_robot,          uri: 'https://github.com/pal-robotics/simple_models_robot.git', version: 'kinetic-devel'}
 - git: {local-name: tf_lookup,           uri: 'https://github.com/pal-robotics/tf_lookup.git', version: 'master'}
 - git: {local-name: pal_gazebo_plugins,      uri: 'https://github.com/pal-robotics/pal_gazebo_plugins.git', version: '1.1.8'}
