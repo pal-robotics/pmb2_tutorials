@@ -16,3 +16,4 @@
 - git: {local-name: pal_statistics,       uri: 'https://github.com/pal-robotics/pal_statistics.git', version: '1.1.1'}
 - git: {local-name: pal_msgs,       uri: 'https://github.com/pal-robotics/pal_msgs.git', version: 'indigo-devel'}
 - git: {local-name: pal_python,       uri: 'https://github.com/pal-robotics/pal_python.git', version: 'indigo-devel'}
+- git: {local-name: robot_pose,                   uri: 'https://github.com/pal-robotics/robot_pose', version: 'kinetic-devel'}
