@@ -1,7 +1,0 @@
-- git: {local-name: urdf_test, uri: 'https://github.com/pal-robotics/urdf_test.git', version: 'humble-devel'}
-- git: {local-name: launch_pal, uri: 'https://github.com/pal-robotics/launch_pal.git', version: 'master'}
-
-- git: {local-name: pal_gazebo_worlds, uri: 'https://github.com/pal-robotics/pal_gazebo_worlds.git', version: 'humble-devel'}
-- git: {local-name: pmb2_robot, uri: 'https://github.com/pal-robotics/pmb2_robot.git', version: 'humble-devel'}
-- git: {local-name: pmb2_simulation, uri: 'https://github.com/pal-robotics/pmb2_simulation.git', version: 'humble-devel'}
-- git: {local-name: pmb2_navigation, uri: 'https://github.com/pal-robotics/pmb2_navigation.git', version: 'humble-devel'}
